@@ -17,7 +17,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/KiBMaH4.jpg');
+  --background-image: url('https://cdn.discordapp.com/attachments/1047304359278555227/1101081704736751676/4D99209D-117E-44AF-96C4-C99C00307006.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -30,7 +30,7 @@
   --background-invert: 3%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.imgur.com/WdvRwfT.gif');
+  --user-popout-image: url('https://cdn.discordapp.com/attachments/983921898129850368/1108628835458625576/subject_pfp.gif');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.imgur.com/oygxIb5.gif');
+  --user-modal-image: url('https://cdn.discordapp.com/attachments/983921898129850368/1108628835458625576/subject_pfp.gif');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -52,7 +52,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://i.imgur.com/pRLZsXE.gif');
+  --home-icon: url('https://cdn.discordapp.com/attachments/983921898129850368/1108628835458625576/subject_pfp.gif');
   --home-position: center;
   --home-size: 50px;
   --channel-unread: #F32121;
